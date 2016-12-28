@@ -1,0 +1,2 @@
+%{"dogma": {:hex, :dogma, "0.1.13", "7b6c6ad2b3ee6501eda3bd39e197dd5198be8d520d1c175c7f713803683cf27a", [:mix], [{:poison, ">= 2.0.0", [hex: :poison, optional: false]}]},
+  "poison": {:hex, :poison, "3.0.0", "625ebd64d33ae2e65201c2c14d6c85c27cc8b68f2d0dd37828fde9c6920dd131", [:mix], []}}
